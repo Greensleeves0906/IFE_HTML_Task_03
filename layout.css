@@ -1,0 +1,60 @@
+body{
+padding:20px;
+}
+
+#content{
+background-color:#eee;
+padding:20px;
+
+
+}
+#left{
+float:left;
+width:200px;
+background-color:#FFFFFF;
+border:2px solid #999;
+height:100%;
+}
+#right{
+border:2px solid #999;
+float:right;
+width:120px;
+height:100%;
+background-color:#FFFFFF;
+
+}
+#primary{
+padding:20px;
+margin-left:240px;
+margin-right:160px;
+background-color:#FFFFFF;
+border:2px solid #999;
+}
+.pic{
+text-align:center;
+padding:10px;
+}
+img{
+display:inline;
+border:2px solid #999;
+margin:5px;
+}
+
+.clear{
+clear:both;
+}
+h1{
+font-size:24px;
+}
+#team{ 
+display:inline; 
+float:left;
+padding:10px;
+}
+#teamName{
+float:right; 
+display:inline;
+margin-right:15px;
+margin-top:15px;
+
+ } 
